@@ -1,0 +1,22 @@
+{
+  "name": "vidverse",
+  "version": "1.0.0",
+  "description": "a video streaming website",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "express.js",
+    "mongoDB",
+    "mongoose"
+  ],
+  "author": "sumanth",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
